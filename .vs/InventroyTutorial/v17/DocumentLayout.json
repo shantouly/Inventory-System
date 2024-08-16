@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\InventroyTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|d:\\unity\\inventroytutorial\\assets\\inventory\\scripts\\itemondrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|solutionrelative:assets\\inventory\\scripts\\itemondrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|D:\\unity\\InventroyTutorial\\assets\\inventory\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|solutionrelative:assets\\inventory\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|D:\\unity\\InventroyTutorial\\assets\\inventory\\scripts\\itemonworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|solutionrelative:assets\\inventory\\scripts\\itemonworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|D:\\unity\\InventroyTutorial\\assets\\inventory\\scripts\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|solutionrelative:assets\\inventory\\scripts\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|d:\\unity\\inventroytutorial\\assets\\inventory\\scripts\\movedrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|solutionrelative:assets\\inventory\\scripts\\movedrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|D:\\unity\\InventroyTutorial\\assets\\inventory\\inventoryscripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|solutionrelative:assets\\inventory\\inventoryscripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|D:\\unity\\InventroyTutorial\\assets\\inventory\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|solutionrelative:assets\\inventory\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|D:\\unity\\InventroyTutorial\\assets\\inventory\\inventoryscripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FBED81-EEA1-0A77-B3F7-BE20E559F15E}|Assembly-CSharp.csproj|solutionrelative:assets\\inventory\\inventoryscripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoveDrag.cs",
+              "DocumentMoniker": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\Scripts\\MoveDrag.cs",
+              "RelativeDocumentMoniker": "Assets\\Inventory\\Scripts\\MoveDrag.cs",
+              "ToolTip": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\Scripts\\MoveDrag.cs",
+              "RelativeToolTip": "Assets\\Inventory\\Scripts\\MoveDrag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:20:19.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemOnDrag.cs",
+              "DocumentMoniker": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\Scripts\\ItemOnDrag.cs",
+              "RelativeDocumentMoniker": "Assets\\Inventory\\Scripts\\ItemOnDrag.cs",
+              "ToolTip": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\Scripts\\ItemOnDrag.cs",
+              "RelativeToolTip": "Assets\\Inventory\\Scripts\\ItemOnDrag.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwC8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:51:52.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\Scripts\\Slot.cs",
+              "RelativeDocumentMoniker": "Assets\\Inventory\\Scripts\\Slot.cs",
+              "ToolTip": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\Scripts\\Slot.cs",
+              "RelativeToolTip": "Assets\\Inventory\\Scripts\\Slot.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAewAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:32:46.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\Scripts\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Inventory\\Scripts\\InventoryManager.cs",
+              "ToolTip": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\Scripts\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Inventory\\Scripts\\InventoryManager.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:24:49.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemOnWorld.cs",
+              "DocumentMoniker": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\Scripts\\ItemOnWorld.cs",
+              "RelativeDocumentMoniker": "Assets\\Inventory\\Scripts\\ItemOnWorld.cs",
+              "ToolTip": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\Scripts\\ItemOnWorld.cs",
+              "RelativeToolTip": "Assets\\Inventory\\Scripts\\ItemOnWorld.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:42:38.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Inventory\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Inventory\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:40:45.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\InventoryScripts\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Inventory\\InventoryScripts\\Inventory.cs",
+              "ToolTip": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\InventoryScripts\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Inventory\\InventoryScripts\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:37:14.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\InventoryScripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Inventory\\InventoryScripts\\Item.cs",
+              "ToolTip": "D:\\unity\\InventroyTutorial\\Assets\\Inventory\\InventoryScripts\\Item.cs",
+              "RelativeToolTip": "Assets\\Inventory\\InventoryScripts\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:32:39.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
