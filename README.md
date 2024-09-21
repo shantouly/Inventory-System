@@ -1,2 +1,2 @@
 # Inventory-System(Unity)    
-Store Drag Drop Use Click
+Store Drag Swap Drop Use Click
